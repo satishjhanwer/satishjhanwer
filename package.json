@@ -1,0 +1,23 @@
+{
+  "name": "satishjhanwer",
+  "version": "1.0.0",
+  "description": "My Awesome Github Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satishjhanwer/satishjhanwer.git"
+  },
+  "author": "Satish Jhanwer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/satishjhanwer/satishjhanwer/issues"
+  },
+  "homepage": "https://github.com/satishjhanwer/satishjhanwer#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mustache": "^4.2.0"
+  }
+}
