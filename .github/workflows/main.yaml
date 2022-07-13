@@ -28,6 +28,6 @@ jobs:
       - name: Generate README file
         run: node index.js
       - name: Push new README.md
-        uses: mikeal/publish-to-github-action@master
+        uses: mikeal/publish-to-github-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_GITHUB_TOKEN }}
