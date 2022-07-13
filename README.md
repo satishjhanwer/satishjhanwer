@@ -6,7 +6,7 @@
 
 <h3>Some Tools I use</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React.JS-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -22,11 +22,17 @@
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Golang" src="https://img.shields.io/badge/-Golang-45b8d8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.JS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.JS-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=satishjhanwer&show_icons=true&count_private=true" alt="satishjhanwer" />
+
+<h3>Github Stats</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=satishjhanwer&show_icons=true&count_private=true" alt="satishjhanwer" /> <br>
+<img src="https://github-profile-trophy.vercel.app/?username=satishjhanwer" alt="satishjhanwer" />
 
 ---
 
@@ -36,6 +42,6 @@
 
 ---
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 13 July, 11:45 am IST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 13 July, 11:47 am IST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 
 <p align="center"><img src="https://github.com/satishjhanwer/satishjhanwer/actions/workflows/main.yaml/badge.svg?branch=main" /> <img alt="Stars" src="https://img.shields.io/github/stars/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/> <img src="https://visitor-badge.glitch.me/badge?page_id=satishjhanwer.satishjhanwer" alt="Visitors" /></p>
