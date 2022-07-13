@@ -1,9 +1,10 @@
 {
   "name": "satishjhanwer",
   "version": "1.0.0",
-  "description": "My Awesome Github Profile",
+  "description": "Awesome Github Personal README Profile",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
