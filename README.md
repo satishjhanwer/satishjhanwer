@@ -6,28 +6,140 @@
 
 <a href="https://github.com/satishjhanwer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/satishjhanwer" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/satishjhanwer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
-<h3>Some Tools I use</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React.JS-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.JS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.JS-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+---
+
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code>
+    <img alt="Bash" height="25" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" />
+  </code>
+  <code>
+    <img alt="CSS" height="25" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
+  </code>
+  <code>
+    <img alt="SVG+XML" height="25" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white" />
+  </code>
+  <code>
+    <img alt="TypeScript" height="25" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
+  </code>
+  <code>
+    <img alt="JavaScript" height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
+  </code>
+  <code>
+    <img alt="Markdown" height="25" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" />
+  </code>
+  <code>
+    <img alt="HTML" height="25" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
+  </code>
+  <code>
+    <img alt=JQuery" height="25" src="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=jquery&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="SASS" height="25" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white" />
+  </code>
+  <code>
+    <img alt="Node.js" height="25" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />
+  </code>
+  <code>
+    <img alt="React" height="25" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"/>
+  </code>
+  <code>
+    <img alt="Webpack" height="25" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white"/>
+  </code> 
+  <code>
+    <img alt="Docker" height="25" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="github actions" height="25" src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="redux" height="25" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="GraphQL" height="25" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Styled Components" height="25" src="https://img.shields.io/badge/-Styled_Components-db7092?logo=styled-components&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="git" height="25" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="angular" height="25" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="npm" height="25" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Rollup" height="25" src="https://img.shields.io/badge/-Rollup-EC4A3F?logo=rollup.js&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Prettier" height="25" src="https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="MongoDB" height="25" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Golang" height="25" src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Vue.js" height="25" src="https://img.shields.io/badge/-Vue.JS-35495E?logo=vuedotjs&logoColor=4FC08D"/>
+  </code>
+  <code>
+    <img alt="Bootstrap" height="25" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Express.js" height="25" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Electron" height="25" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Jest" height="25" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="JUnit" height="25" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Material Design" height="25" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="SonarLint" height="25" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Heroku" height="25" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="MySQL" height="25" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="PostgreSQL" height="25" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Git" height="25" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="GitHub" height="25" src="https://img.shields.io/badge/Github-%23121011.svg?&logo=github&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="GitLab" height="25" src="https://img.shields.io/badge/GitLab-%23181717.svg?&logo=gitlab&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Postman" height="25" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="Visual Studio Code" height="25" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
+  </code>
+  <code>
+    <img alt="IntelliJ" height="25" src="https://img.shields.io/badge/IntelliJ-000000.svg?&logo=intellij-idea"/>
+  </code>
+  <code>
+    <img alt="Stack Overflow" height="25" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"/>
+  </code>
+  <code>
+    <img alt=Linux" height="25" src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black"/>
+  </code>
 </p>
 
 ---
@@ -93,7 +205,7 @@
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 13 July, 3:39 pm IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 13 July, 5:34 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
@@ -102,5 +214,12 @@
     <img alt="Stars" src="https://img.shields.io/github/stars/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/> 
     <img alt="Forks" src="https://img.shields.io/github/forks/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/> 
     <img src="https://visitor-badge.glitch.me/badge?page_id=satishjhanwer.satishjhanwer" alt="Visitors"/>
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
   </p>
 </div>
+
+<!--
+
+![Metrics](https://metrics.lecoq.io/satishjhanwer?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+
+-->
