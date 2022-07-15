@@ -6,7 +6,8 @@ on:
       - main
   schedule:
     - cron: '0 */3 * * *'
-
+  workflow_dispatch:
+  
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -27,8 +28,15 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
-      - name: Push new README.md
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_GITHUB_TOKEN }}
-          BRANCH_NAME: 'main'
+      - name: Commit and Push README.md
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: user_info
+          message: 'other: updated README.md'
+          add: '.'
+          
+      # - name: Push new README.md
+      #   uses: mikeal/publish-to-github-action@master
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.PROFILE_GITHUB_TOKEN }}
+      #     BRANCH_NAME: 'main'
