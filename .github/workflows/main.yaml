@@ -14,7 +14,9 @@ jobs:
 
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
       - name: setup node
         uses: actions/setup-node@v1
         with:
@@ -29,13 +31,19 @@ jobs:
       - name: Generate README file
         run: node index.js
       - name: Commit and Push README.md
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: Satish Jhanwer
-          author_email: satish.jhanwer@gmail.com
-          default_author: user_info
-          message: 'other: updated README.md'
-          add: '.'
+        run: |
+          git config user.name Satish Jhanwer
+          git config user.email satish.jhanwer@gmail.com
+          git add .
+          git commit -m "other: Updated README.md file using actions"
+          git push
+#         uses: EndBug/add-and-commit@v9
+#         with:
+#           author_name: Satish Jhanwer
+#           author_email: satish.jhanwer@gmail.com
+#           default_author: user_info
+#           message: 'other: updated README.md'
+#           add: '.'
           
       # - name: Push new README.md
       #   uses: mikeal/publish-to-github-action@master
