@@ -31,6 +31,8 @@ jobs:
       - name: Commit and Push README.md
         uses: EndBug/add-and-commit@v9
         with:
+          author_name: Satish Jhanwer
+          author_email: satish.jhanwer@gmail.com
           default_author: user_info
           message: 'other: updated README.md'
           add: '.'
