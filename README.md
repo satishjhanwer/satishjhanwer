@@ -7,10 +7,10 @@
 <p align="center">
   <a href="https://github.com/satishjhanwer" target="_blank">
     <img alt="Github" height="25" src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=Github&logoColor=white"/>
-  </a>
+  </a> 
   <a href="https://twitter.com/satishjhanwer" target="_blank">
     <img alt="Twitter" height="25" src="https://img.shields.io/badge/twitter-%2300acee.svg?logo=twitter&logoColor=white"/>
-  </a>
+  </a> 
   <a href="https://www.linkedin.com/in/satishjhanwer/" target="_blank">
     <img alt="LinkedIn" height="25" src="https://img.shields.io/badge/linkedin-%230e76a8.svg?logo=linkedin&logoColor=white"/>
   </a>
@@ -141,21 +141,19 @@
 </h4>
 <br>
 
-[![@satishjhanwer's Holopin board](https://holopin.me/satishjhanwer)](https://holopin.io/@satishjhanwer)
-
 ---
 
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 1 December at 2:40 pm IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 1 December at 4:16 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
   <p align="center">
-    <img  height="25" src="https://github.com/satishjhanwer/satishjhanwer/actions/workflows/main.yaml/badge.svg?branch=main"/>
-    <img  height="25" alt="Stars" src="https://img.shields.io/github/stars/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/>
-    <img  height="25" alt="Forks" src="https://img.shields.io/github/forks/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/>
+    <img  height="25" src="https://github.com/satishjhanwer/satishjhanwer/actions/workflows/main.yaml/badge.svg?branch=main"/> 
+    <img  height="25" alt="Stars" src="https://img.shields.io/github/stars/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/> 
+    <img  height="25" alt="Forks" src="https://img.shields.io/github/forks/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/> 
     <img  height="25" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=satishjhanwer.satishjhanwer"/>
     <img  height="25" alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
   </p>
