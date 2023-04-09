@@ -7,10 +7,10 @@
 <p align="center">
   <a href="https://github.com/satishjhanwer" target="_blank">
     <img alt="Github" height="25" src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=Github&logoColor=white"/>
-  </a> 
+  </a>
   <a href="https://twitter.com/satishjhanwer" target="_blank">
     <img alt="Twitter" height="25" src="https://img.shields.io/badge/twitter-%2300acee.svg?logo=twitter&logoColor=white"/>
-  </a> 
+  </a>
   <a href="https://www.linkedin.com/in/satishjhanwer/" target="_blank">
     <img alt="LinkedIn" height="25" src="https://img.shields.io/badge/linkedin-%230e76a8.svg?logo=linkedin&logoColor=white"/>
   </a>
@@ -34,7 +34,7 @@
   <img alt="JavaScript" height="25" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Markdown" height="25" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" />
   <img alt="HTML" height="25" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
-  <img alt=JQuery" height="25" src="https://img.shields.io/badge/JQuery-0769AD.svg?logo=jquery&logoColor=white"/>
+  <img alt="JQuery" height="25" src="https://img.shields.io/badge/JQuery-0769AD.svg?logo=jquery&logoColor=white"/>
   <img alt="SASS" height="25" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white" />
   <img alt="Node.js" height="25" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />
   <img alt="Next.js" height="25" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
@@ -67,8 +67,8 @@
   <img alt="GitHub" height="25" src="https://img.shields.io/badge/Github-%23121011.svg?&logo=github&logoColor=white"/>
   <img alt="GitLab" height="25" src="https://img.shields.io/badge/GitLab-%23181717.svg?&logo=gitlab&logoColor=white"/>
   <img alt="Postman" height="25" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
-  <img alt=Linux" height="25" src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black"/>
-  <img alt=Ubuntu" height="25" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+  <img alt="Linux" height="25" src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black"/>
+  <img alt="Ubuntu" height="25" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
   <img alt="Styled Components" height="25" src="https://img.shields.io/badge/-Styled_Components-db7093?logo=styled-components&logoColor=white"/>
   <img alt="Stylus" height="25" src="https://img.shields.io/badge/stylus-%23ff6347.svg?logo=stylus&logoColor=white"/>
   <img alt="MUI" height="25" src="https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white"/>
@@ -148,14 +148,14 @@
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 9 April at 12:58 pm IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 9 April at 1:00 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
   <p align="center">
-    <img  height="25" src="https://github.com/satishjhanwer/satishjhanwer/actions/workflows/main.yaml/badge.svg?branch=main"/> 
-    <img  height="25" alt="Stars" src="https://img.shields.io/github/stars/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/> 
-    <img  height="25" alt="Forks" src="https://img.shields.io/github/forks/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/> 
+    <img  height="25" src="https://github.com/satishjhanwer/satishjhanwer/actions/workflows/main.yaml/badge.svg?branch=main"/>
+    <img  height="25" alt="Stars" src="https://img.shields.io/github/stars/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/>
+    <img  height="25" alt="Forks" src="https://img.shields.io/github/forks/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/>
     <img  height="25" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=satishjhanwer.satishjhanwer"/>
     <img  height="25" alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
   </p>
