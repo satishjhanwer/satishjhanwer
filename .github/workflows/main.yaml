@@ -18,11 +18,11 @@ jobs:
         with:
           token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
       - name: setup node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v2.5.2
         with:
           node-version: '16.x'
       - name: cache
-        uses: actions/cache@v1
+        uses: actions/cache@v1.2.1
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
