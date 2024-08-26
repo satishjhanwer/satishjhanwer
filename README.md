@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p align="justify">I'm <b>Satish Jhanwer</b>, working as <b>Associate Architect @ Sigma Infosolutions Ltd</b>. I have <b>14+ years</b> of coding experience. A passionate learner willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻, love playing various games on mobile, PC, PS4 🚀.</p>
+<p align="justify">I'm <b>Satish Jhanwer</b>, working as <b>Associate Architect @ Sigma Infosolutions Ltd</b>. I have <b>12+ years</b> of coding experience. A passionate learner willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻, love playing various games on mobile, PC, PS4 🚀.</p>
 
 <br>
 
@@ -148,7 +148,7 @@
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 26 August at 8:45 am IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 26 August at 9:40 am IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
