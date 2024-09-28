@@ -26,7 +26,6 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -99,9 +98,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 ![Testing Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 <br>
-
 ---
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -167,7 +164,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 28 September at 12:09 pm IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 28 September at 12:28 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
