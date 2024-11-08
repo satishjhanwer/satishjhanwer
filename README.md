@@ -105,26 +105,12 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com?user=satishjhanwer" alt="Satish Jhanwer" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=satishjhanwer&show_icons=true&count_private=true&include_all_commits=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishjhanwer&layout=compact&include_all_commits=true&count_private=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=satishjhanwer&column=6&margin-w=10" alt="satishjhanwer" width="100%" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satishjhanwer&custom_title=Satish's%20activity%20graph&theme=github-light" width="100%"/>
-</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=satishjhanwer)](https://git.io/streak-stats) [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishjhanwer&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=satishjhanwer&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-profile-trophy.vercel.app/?username=satishjhanwer&column=6&margin-w=10)
+
+![GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=satishjhanwer&custom_title=Satish's%20activity%20graph&theme=github-light)
 
 ---
 
@@ -166,7 +152,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 8 November at 5:07 pm IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 8 November at 5:27 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
