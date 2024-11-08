@@ -101,6 +101,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <br>
+
 ---
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -152,7 +153,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 8 November at 5:51 pm IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 8 November at 6:49 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
