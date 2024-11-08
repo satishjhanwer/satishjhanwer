@@ -18,7 +18,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
     <img alt="Website" height="25" src="https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:satish.jhanwer@gmail.com" target="_blank">
-    <img alt="LinkedIn" height="25" src="https://img.shields.io/badge/Gmail-c14438?logo=Gmail&logoColor=white"/>
+    <img alt="Gmail" height="25" src="https://img.shields.io/badge/Gmail-c14438?logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -108,7 +108,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=satishjhanwer" alt="Satish Jhanwer" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com?user=satishjhanwer" alt="Satish Jhanwer" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=satishjhanwer&show_icons=true&count_private=true&include_all_commits=true" />
@@ -123,7 +123,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=satishjhanwer&column=6&margin-w=10" alt="satishjhanwer" width="100%" />
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=satishjhanwer&custom_title=Satish's%20activity%20graph&theme=github-light" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satishjhanwer&custom_title=Satish's%20activity%20graph&theme=github-light" width="100%"/>
 </p>
 
 ---
@@ -166,7 +166,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 8 November at 2:42 pm IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 8 November at 5:07 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
