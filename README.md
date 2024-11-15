@@ -117,30 +117,12 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/satishjhanwer/deep-dive-dsa" title="Deep Dive DSA">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=deep-dive-dsa&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/satishjhanwer/read-books" title="Read Books">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=read-books&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/satishjhanwer/learn-tdd-in-react" title="Learn TDD">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=learn-tdd-in-react&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/satishjhanwer/my-portfolio" title="My Portfolio">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=my-portfolio&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/satishjhanwer/satishjhanwer.github.io" title="My Website Books">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=satishjhanwer.github.io&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/><br/><br/>
+
+[![Hotel Booking MEAN Stack](https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=hotel-booking-mean-stack&border_radius=10)](https://github.com/satishjhanwer/hotel-booking-mean-stack) [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=satishjhanwer.github.io&border_radius=10)](https://github.com/satishjhanwer/satishjhanwer.github.io)
+[![Read Books](https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=read-books&border_radius=10)](https://github.com/satishjhanwer/read-books) [![Learn TDD](https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=learn-tdd-in-react&border_radius=10)](https://github.com/satishjhanwer/learn-tdd-in-react)
+[![Deep Dive DSA](https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=deep-dive-dsa&border_radius=10)](https://github.com/satishjhanwer/deep-dive-dsa)
+
+<br/>
 <h4 align="center">
   <a href="https://github.com/satishjhanwer?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
@@ -153,7 +135,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 15 November at 8:54 am IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 15 November at 10:51 am IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
