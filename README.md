@@ -135,7 +135,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 10 January at 2:43 pm IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 10 January at 4:49 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
@@ -143,7 +143,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
     <img  height="25" alt="Build Status" src="https://github.com/satishjhanwer/satishjhanwer/actions/workflows/main.yaml/badge.svg?branch=main"/>
     <img  height="25" alt="Stars" src="https://img.shields.io/github/stars/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/>
     <img  height="25" alt="Forks" src="https://img.shields.io/github/forks/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/>
-    <img  height="25" alt="Visitors" src="https://visitcount.itsvg.in/api?id=satishjhanwer&icon=0&color=0"/>
+    <img  height="25" alt="Visitors" src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=satishjhanwer&countColor=%237B1E7A"/>
     <img  height="25" alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
   </p>
 </div>
