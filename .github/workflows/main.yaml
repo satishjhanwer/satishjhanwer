@@ -14,15 +14,15 @@ jobs:
 
     steps:
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.2.2
         with:
           token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
       - name: setup node
-        uses: actions/setup-node@v2.5.2
+        uses: actions/setup-node@v4.1.0
         with:
-          node-version: '16.x'
+          node-version: '22.x'
       - name: cache
-        uses: actions/cache@v1.2.1
+        uses: actions/cache@v4.2.0
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
@@ -31,7 +31,7 @@ jobs:
       - name: Generate README file
         run: node index.js
       - name: Commit and Push README.md
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v9.1.4
         with:
           author_name: Satish Jhanwer
           author_email: satish.jhanwer@gmail.com
