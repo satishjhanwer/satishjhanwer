@@ -95,11 +95,11 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=satishjhanwer)](https://git.io/streak-stats) [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishjhanwer&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=satishjhanwer&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=satishjhanwer)](https://git.io/streak-stats) [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishjhanwer&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=satishjhanwer&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-profile-trophy.vercel.app/?username=satishjhanwer&column=6&margin-w=10)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=satishjhanwer&column=6&margin-w=10)
 
-![GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=satishjhanwer&custom_title=Satish's%20activity%20graph&theme=github-light)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satishjhanwer&custom_title=Satish's%20activity%20graph&theme=github-light)
 
 ---
 
@@ -123,7 +123,7 @@ I'm **Satish Jhanwer**, working as **Associate Architect @ Sigma Infosolutions L
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 27 January at 10:57 am IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 27 January at 11:19 am IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
