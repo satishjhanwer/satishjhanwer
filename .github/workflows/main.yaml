@@ -5,12 +5,12 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
       - name: checkout
@@ -20,18 +20,18 @@ jobs:
       - name: setup node
         uses: actions/setup-node@v4.1.0
         with:
-          node-version: '22.x'
+          node-version: '24.x'
       - name: cache
         uses: actions/cache@v4.2.0
         with:
           path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          key: ${{ runner.os }}-js-${{ hashFiles('yarn.lock') }}
       - name: Install dependencies
-        run: npm install
+        run: yarn install
       - name: Generate README file
         run: node index.js
       - name: Commit and Push README.md
-        uses: EndBug/add-and-commit@v9.1.4
+        uses: EndBug/add-and-commit@v10.1.4
         with:
           author_name: Satish Jhanwer
           author_email: satish.jhanwer@gmail.com
