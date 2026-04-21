@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/satishjhanwer/satishjhanwer#readme",
   "dependencies": {
-    "dotenv": "^17.4.1",
+    "dotenv": "^17.4.2",
     "mustache": "^4.2.0"
   },
-  "packageManager": "yarn@4.13.0"
+  "packageManager": "yarn@4.14.1"
 }
