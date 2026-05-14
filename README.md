@@ -123,7 +123,7 @@ I'm **Satish Jhanwer**, working as **Senior Software Engineering Lead @ UnitedHe
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 13 May at 8:09 pm IST
+    This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Thursday, 14 May at 9:05 am IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
