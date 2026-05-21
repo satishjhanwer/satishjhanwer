@@ -1,4 +1,4 @@
-name: README build
+name: Update README
 
 on:
   push:
@@ -12,33 +12,74 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: checkout
-        uses: actions/checkout@v4.2.2
+      - name: Checkout
+        uses: actions/checkout@v6
         with:
           token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
-      - name: setup node
+
+      - name: Setup Node
         uses: actions/setup-node@v4.1.0
         with:
           node-version: '24.x'
-      - name: enable corepack
+
+      - name: Enable corepack
         run: corepack enable
-      - name: set yarn version
+
+      - name: Set yarn version
         run: yarn set version stable
-      - name: cache
+
+      - name: Cache
         uses: actions/cache@v4.2.0
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('yarn.lock') }}
+
       - name: Install dependencies
         run: yarn install
+
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true
+          path: profile/stats.svg
+          token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&count_private=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
+
+      - name: Generate streak stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_CLASSIC_TOKEN }}
+          filename: profile/streak-stats.svg
+          base: ""
+          output_action: none
+          plugin_habits: yes
+          plugin_habits_from: 365
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
       - name: Generate README file
         run: node index.js
-      - name: Commit and Push README.md
+
+      - name: Commit and push
         uses: EndBug/add-and-commit@v10.0.0
         with:
-          author_name: Satish Jhanwer
-          author_email: satish.jhanwer@gmail.com
+          author_name: ${{ github.actor }}
+          author_email: ${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com
           default_author: user_info
-          message: 'other: Updated README.md file using actions'
+          message: 'other: Updated README.md and profile cards'
           add: '.'
