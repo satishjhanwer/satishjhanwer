@@ -37,7 +37,7 @@ jobs:
       - name: Generate streak stats
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_CLASSIC_TOKEN }}
           filename: profile/streak-stats.svg
           base: ""
           plugin_habits: yes
