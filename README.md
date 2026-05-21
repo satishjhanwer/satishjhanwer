@@ -7,7 +7,7 @@ I'm **Satish Jhanwer**, working as **Senior Software Engineering Lead @ UnitedHe
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=Github&logoColor=white)](https://github.com/satishjhanwer)
 [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?logo=twitter&logoColor=white)](https://twitter.com/satishjhanwer)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230e76a8.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satishjhanwer)
-[![Website](https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white)](https://satishjhanwer.github.io)
+[![Website](https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white)](https://satishjhanwer.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?logo=Gmail&logoColor=white)](mailto:satish.jhanwer@gmail.com)
 
 ---
@@ -94,8 +94,7 @@ I'm **Satish Jhanwer**, working as **Senior Software Engineering Lead @ UnitedHe
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=satishjhanwer)](https://git.io/streak-stats) [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishjhanwer&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=satishjhanwer&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](profile/streak-stats.svg)](https://github.com/satishjhanwer) [![GitHub Stats](profile/stats.svg)](https://github.com/satishjhanwer) [![GitHub Lang Stats](profile/top-langs.svg)](https://github.com/satishjhanwer)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=satishjhanwer&column=6&margin-w=10)
 
@@ -123,7 +122,7 @@ I'm **Satish Jhanwer**, working as **Senior Software Engineering Lead @ UnitedHe
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 20 May at 8:54 pm IST
+    This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Thursday, 21 May at 8:44 am IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
