@@ -94,7 +94,8 @@ I'm **Satish Jhanwer**, working as **Senior Software Engineering Lead @ UnitedHe
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-[![GitHub Streak](profile/streak-stats.svg)](https://github.com/satishjhanwer) [![GitHub Stats](profile/stats.svg)](https://github.com/satishjhanwer) [![GitHub Lang Stats](profile/top-langs.svg)](https://github.com/satishjhanwer)
+
+[![GitHub Streak](profile/streak-stats.svg)](https://github.com/satishjhanwer)  [![GitHub Stats](profile/stats.svg)](https://github.com/satishjhanwer) [![GitHub Lang Stats](profile/top-langs.svg)](https://github.com/satishjhanwer)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=satishjhanwer&column=6&margin-w=10)
 

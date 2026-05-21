@@ -64,10 +64,8 @@ jobs:
           filename: profile/streak-stats.svg
           base: ""
           output_action: none
-          plugin_habits: yes
-          plugin_habits_from: 365
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
       - name: Generate README file
         run: node index.js
