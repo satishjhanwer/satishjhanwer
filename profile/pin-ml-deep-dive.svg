@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="120"
-        viewBox="0 0 400 120"
+        height="150"
+        viewBox="0 0 400 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -114,10 +114,10 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">No description provided</tspan>
+      <tspan dy="1.2em" x="25">This repository is designed to provide clear and</tspan><tspan dy="1.2em" x="25">well-explained implementations of various machine learning</tspan><tspan dy="1.2em" x="25">in Python.</tspan>
     </text>
 
-    <g transform="translate(30, 45)">
+    <g transform="translate(30, 75)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
@@ -143,7 +143,7 @@
     </g><g transform="translate(20, 0)"><text data-testid="forkcount" class="gray">1</text></g></g>
     </g>
     
-  <svg x="0" y="0"><g transform="translate(-3, 68)">
+  <svg x="0" y="0"><g transform="translate(-3, 98)">
       
     </g></svg>
     
