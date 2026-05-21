@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="165"
-        viewBox="0 0 300 165"
+        height="185"
+        viewBox="0 0 300 185"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -98,24 +98,10 @@
         />
 
         
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
-        <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >Most Used Languages</text>
-    </g>
-      </g>
-    
 
         <g
           data-testid="main-card-body"
-          transform="translate(0, 55)"
+          transform="translate(0, 25)"
         >
           
     <svg data-testid="lang-items" x="25">
@@ -130,7 +116,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="235.86"
+          width="234.97"
           height="8"
           fill="#DA5B0B"
         />
@@ -138,9 +124,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="235.86"
+          x="234.97"
           y="0"
-          width="14.219999999999999"
+          width="14.21"
           height="8"
           fill="#3178c6"
         />
@@ -148,9 +134,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.08"
+          x="239.18"
           y="0"
-          width="14.16"
+          width="14.14"
           height="8"
           fill="#e34c26"
         />
@@ -158,9 +144,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.24"
+          x="243.32"
           y="0"
-          width="13.01"
+          width="13"
           height="8"
           fill="#3572A5"
         />
@@ -168,9 +154,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.25"
+          x="246.32"
           y="0"
-          width="11.78"
+          width="11.77"
           height="8"
           fill="#f1e05a"
         />
@@ -178,11 +164,51 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.03"
+          x="248.09"
           y="0"
           width="10.97"
           height="8"
           fill="#3D6117"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.06"
+          y="0"
+          width="10.79"
+          height="8"
+          fill="#663399"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.85"
+          y="0"
+          width="10.12"
+          height="8"
+          fill="#724b3b"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.97"
+          y="0"
+          width="10.02"
+          height="8"
+          fill="#0298c3"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.99"
+          y="0"
+          width="10.01"
+          height="8"
+          fill="#c6538c"
         />
       
       
@@ -191,14 +217,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 94.34%
+        Jupyter Notebook 93.99%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 1.69%
+        TypeScript 1.68%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -208,25 +234,53 @@
         HTML 1.66%
       </text>
     </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
+  </g><g transform="translate(0, 75)">
+    <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Python 1.20%
       </text>
     </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
+  </g><g transform="translate(0, 100)">
+    <g class="stagger" style="animation-delay: 1050ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         JavaScript 0.71%
       </text>
     </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3D6117" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         TeX 0.39%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        CSS 0.31%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#724b3b" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Mustache 0.05%
+      </text>
+    </g>
+  </g><g transform="translate(0, 75)">
+    <g class="stagger" style="animation-delay: 900ms">
+      <circle cx="5" cy="6" r="5" fill="#0298c3" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Perl 0.01%
+      </text>
+    </g>
+  </g><g transform="translate(0, 100)">
+    <g class="stagger" style="animation-delay: 1050ms">
+      <circle cx="5" cy="6" r="5" fill="#c6538c" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        SCSS 0.00%
       </text>
     </g>
   </g></g>

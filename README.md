@@ -95,7 +95,7 @@ I'm **Satish Jhanwer**, working as **Senior Software Engineering Lead @ UnitedHe
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-[![GitHub Streak](profile/streak-stats.svg)](https://github.com/satishjhanwer)  [![GitHub Stats](profile/stats.svg)](https://github.com/satishjhanwer) [![GitHub Lang Stats](profile/top-langs.svg)](https://github.com/satishjhanwer)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=satishjhanwer)](https://git.io/streak-stats) [![GitHub Stats](profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Lang Stats](profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=satishjhanwer&column=6&margin-w=10)
 
@@ -106,15 +106,13 @@ I'm **Satish Jhanwer**, working as **Senior Software Engineering Lead @ UnitedHe
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
-[![Hotel Booking MEAN Stack](https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=hotel-booking-mean-stack&border_radius=10)](https://github.com/satishjhanwer/hotel-booking-mean-stack) [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=satishjhanwer.github.io&border_radius=10)](https://github.com/satishjhanwer/satishjhanwer.github.io)
-[![Read Books](https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=read-books&border_radius=10)](https://github.com/satishjhanwer/read-books) [![Learn TDD](https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=learn-tdd-in-react&border_radius=10)](https://github.com/satishjhanwer/learn-tdd-in-react)
-[![Deep Dive DSA](https://github-readme-stats.vercel.app/api/pin/?username=satishjhanwer&repo=deep-dive-dsa&border_radius=10)](https://github.com/satishjhanwer/deep-dive-dsa)
+<!--
 
-<br/>
-<h4 align="center">
-  <a href="https://github.com/satishjhanwer?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-<br>
+[![Hotel Booking MEAN Stack](profile/pin-hotel-booking-mean-stack.svg)](https://github.com/satishjhanwer/hotel-booking-mean-stack) [![Portfolio Website](profile/pin-satishjhanwer-github-io.svg)](https://github.com/satishjhanwer/satishjhanwer.github.io)
+[![Read Books](profile/pin-read-books.svg)](https://github.com/satishjhanwer/read-books) [![Learn TDD](profile/pin-learn-tdd-in-react.svg)](https://github.com/satishjhanwer/learn-tdd-in-react)
+[![Deep Dive DSA](profile/pin-deep-dive-dsa.svg)](https://github.com/satishjhanwer/deep-dive-dsa)
+
+-->
 
 ---
 
@@ -123,7 +121,7 @@ I'm **Satish Jhanwer**, working as **Senior Software Engineering Lead @ UnitedHe
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Thursday, 21 May at 9:26 am IST
+    This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Thursday, 21 May at 9:55 am IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
@@ -131,8 +129,8 @@ I'm **Satish Jhanwer**, working as **Senior Software Engineering Lead @ UnitedHe
     <img  height="25" alt="Build Status" src="https://github.com/satishjhanwer/satishjhanwer/actions/workflows/main.yaml/badge.svg?branch=main"/>
     <img  height="25" alt="Stars" src="https://img.shields.io/github/stars/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/>
     <img  height="25" alt="Forks" src="https://img.shields.io/github/forks/satishjhanwer/satishjhanwer?style=flat&labelColor=343b41"/>
-    <img  height="25" alt="Visitors" src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=satishjhanwer&countColor=%237B1E7A"/>
     <img  height="25" alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
+    <img  height="25" alt="Visitors" src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=satishjhanwer&countColor=%237B1E7A"/>
   </p>
 </div>
 
