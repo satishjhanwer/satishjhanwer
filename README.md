@@ -106,13 +106,9 @@ I'm **Satish Jhanwer**, working as **Senior Software Engineering Lead @ UnitedHe
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
-<!--
-
-[![Hotel Booking MEAN Stack](profile/pin-hotel-booking-mean-stack.svg)](https://github.com/satishjhanwer/hotel-booking-mean-stack) [![Portfolio Website](profile/pin-satishjhanwer-github-io.svg)](https://github.com/satishjhanwer/satishjhanwer.github.io)
-[![Read Books](profile/pin-read-books.svg)](https://github.com/satishjhanwer/read-books) [![Learn TDD](profile/pin-learn-tdd-in-react.svg)](https://github.com/satishjhanwer/learn-tdd-in-react)
+[![Hotel Booking MEAN Stack](profile/pin-hotel-booking-mean-stack.svg)](https://github.com/satishjhanwer/hotel-booking-mean-stack) [![IITJ MTP Template Generator](profile/pin-IITJ-MTP-Template-Generator.svg)](https://github.com/satishjhanwer/IITJ-MTP-Template-Generator) 
+[![Learn TDD](profile/pin-ml-deep-dive.svg)](https://github.com/satishjhanwer/ml-deep-dive)
 [![Deep Dive DSA](profile/pin-deep-dive-dsa.svg)](https://github.com/satishjhanwer/deep-dive-dsa)
-
--->
 
 ---
 
@@ -121,7 +117,7 @@ I'm **Satish Jhanwer**, working as **Senior Software Engineering Lead @ UnitedHe
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Thursday, 21 May at 9:55 am IST
+    This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Thursday, 21 May at 9:59 am IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
