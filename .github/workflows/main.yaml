@@ -89,6 +89,14 @@ jobs:
           path: profile/pin-ml-deep-dive.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/snake.svg
+            profile/snake-dark.svg?palette=github-dark
+
       - name: Generate README file
         run: node index.js
 
