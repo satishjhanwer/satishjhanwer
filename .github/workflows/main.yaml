@@ -57,6 +57,22 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          file: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          max-cols: 6
+          margin-width: 10
+
       - name: Generate 3D city builder
         uses: lowlighter/metrics@latest
         with:
@@ -80,7 +96,7 @@ jobs:
           base: ''
           plugin_leetcode_username: ${{ secrets.GITHUB_USERNAME }}
           plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_sections: solved
           plugin_leetcode_limit_skills: 0
           plugin_leetcode_limit_recent: 1
           output_action: none
