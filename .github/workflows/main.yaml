@@ -61,22 +61,30 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          filename: profile/profile-3d-city.svg
+          filename: profile-3d-city.svg
+          output_action: none
           base: ''
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+      - name: Move 3D city builder render
+        run: mv /metrics_renders/profile-3d-city.svg profile/profile-3d-city.svg
 
       - name: Generate habits and productive time
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          filename: profile/github-habits.svg
+          filename: github-habits.svg
+          output_action: none
           base: ''
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_charts: yes
           config_timezone: Asia/Kolkata
+
+      - name: Move habits render
+        run: mv /metrics_renders/github-habits.svg profile/github-habits.svg
 
       - name: Generate pin card - hotel-booking-mean-stack
         uses: readme-tools/github-readme-stats-action@v2
