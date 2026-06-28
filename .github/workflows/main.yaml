@@ -70,6 +70,22 @@ jobs:
       - name: Move 3D city builder render
         run: mv /metrics_renders/profile-3d-city.svg profile/profile-3d-city.svg
 
+      - name: LeetCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ''
+          plugin_leetcode_username: ${{ secrets.GITHUB_USERNAME }}
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_limit_skills: 0
+          plugin_leetcode_limit_recent: 1
+          output_action: none
+
+      - name: Move LeetCode render
+        run: mv /metrics_renders/metrics.plugin.leetcode.svg profile/metrics.plugin.leetcode.svg
+
       - name: Generate pin card - hotel-booking-mean-stack
         uses: readme-tools/github-readme-stats-action@v2
         with:
