@@ -185,13 +185,15 @@ I've engineered responsive, mobile-first architectures that scale seamlessly acr
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=satishjhanwer)](https://git.io/streak-stats) [![GitHub Lang Stats](profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Stats](profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](profile/streak.svg)](https://github.com/DenverCoder1/github-readme-streak-stats) [![GitHub Lang Stats](profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Stats](profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=satishjhanwer&column=6&margin-w=10)
+<img alt="GitHub Profile Trophy" src="profile/trophy.svg" width="100%" />
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satishjhanwer&custom_title=Satish's%20activity%20graph&theme=github-light)
 
 <img alt="3D Contribution Graph" src="profile/profile-3d-city.svg" width="100%" />
+
+<img alt="LeetCode Stats" src="profile/metrics.plugin.leetcode.svg" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/snake-dark.svg" />
@@ -214,7 +216,7 @@ I've engineered responsive, mobile-first architectures that scale seamlessly acr
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 28 June at 11:20 am IST
+    This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 28 June at 12:12 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
