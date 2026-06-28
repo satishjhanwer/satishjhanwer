@@ -68,7 +68,9 @@ jobs:
           plugin_isocalendar_duration: full-year
 
       - name: Move 3D city builder render
-        run: mv /metrics_renders/profile-3d-city.svg profile/profile-3d-city.svg
+        run: |
+          sudo mv /metrics_renders/profile-3d-city.svg profile/profile-3d-city.svg
+          sudo chown "$(whoami)" profile/profile-3d-city.svg
 
       - name: LeetCode
         uses: lowlighter/metrics@latest
@@ -84,7 +86,9 @@ jobs:
           output_action: none
 
       - name: Move LeetCode render
-        run: mv /metrics_renders/metrics.plugin.leetcode.svg profile/metrics.plugin.leetcode.svg
+        run: |
+          sudo mv /metrics_renders/metrics.plugin.leetcode.svg profile/metrics.plugin.leetcode.svg
+          sudo chown "$(whoami)" profile/metrics.plugin.leetcode.svg
 
       - name: Generate pin card - hotel-booking-mean-stack
         uses: readme-tools/github-readme-stats-action@v2
