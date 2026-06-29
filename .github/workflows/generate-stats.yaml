@@ -1,0 +1,136 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
+
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&count_private=true&include_all_commits=false
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_title=true&langs_count=10&count_private=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          file: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          max-cols: 6
+          margin-width: 10
+
+      - name: Generate 3D city builder
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: profile-3d-city.svg
+          output_action: none
+          base: ''
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Move 3D city builder render
+        run: |
+          sudo mv /metrics_renders/profile-3d-city.svg profile/profile-3d-city.svg
+          sudo chown "$(whoami)" profile/profile-3d-city.svg
+
+      - name: LeetCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ''
+          plugin_leetcode_username: ${{ secrets.GITHUB_USERNAME }}
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved
+          plugin_leetcode_limit_skills: 0
+          plugin_leetcode_limit_recent: 1
+          output_action: none
+
+      - name: Move LeetCode render
+        run: |
+          sudo mv /metrics_renders/metrics.plugin.leetcode.svg profile/metrics.plugin.leetcode.svg
+          sudo chown "$(whoami)" profile/metrics.plugin.leetcode.svg
+
+      - name: Generate pin card - hotel-booking-mean-stack
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=hotel-booking-mean-stack&border_radius=10
+          path: profile/pin-hotel-booking-mean-stack.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - IITJ-MTP-Template-Generator
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=IITJ-MTP-Template-Generator&border_radius=10
+          path: profile/pin-IITJ-MTP-Template-Generator.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - deep-dive-dsa
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=deep-dive-dsa&border_radius=10
+          path: profile/pin-deep-dive-dsa.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - ml-deep-dive
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=ml-deep-dive&border_radius=10
+          path: profile/pin-ml-deep-dive.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/snake.svg
+            profile/snake-dark.svg?palette=github-dark
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v10.0.0
+        with:
+          author_name: ${{ github.actor }}
+          author_email: ${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com
+          default_author: user_info
+          message: 'other: Updated profile stats and cards'
+          add: '.'
