@@ -49,7 +49,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           file: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
           max-cols: 6
           margin-width: 10
 
