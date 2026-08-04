@@ -48,7 +48,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate trophy
-        uses: satishjhanwer/github-profile-trophy@feature/generate-svg
+        uses: satishjhanwer/github-profile-trophy@master
         continue-on-error: true
         with:
           username: ${{ github.repository_owner }}
