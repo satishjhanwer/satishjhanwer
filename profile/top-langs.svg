@@ -59,7 +59,9 @@
     .lang-progress{
       animation: growWidthAnimation 0.6s ease-in-out forwards;
     }
+    .progress-background { fill: #ddd; }
     
+          
 
           
       /* Animations */
@@ -84,9 +86,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -116,7 +124,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="234.55"
+          width="234.36"
           height="8"
           fill="#DA5B0B"
         />
@@ -124,9 +132,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="234.55"
+          x="234.36"
           y="0"
-          width="14.48"
+          width="14.64"
           height="8"
           fill="#3178c6"
         />
@@ -134,7 +142,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="239.03"
+          x="239"
           y="0"
           width="14.129999999999999"
           height="8"
@@ -144,7 +152,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.16"
+          x="243.13"
           y="0"
           width="12.99"
           height="8"
@@ -154,7 +162,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.15"
+          x="246.12"
           y="0"
           width="11.78"
           height="8"
@@ -164,7 +172,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.93"
+          x="247.9"
           y="0"
           width="10.97"
           height="8"
@@ -174,9 +182,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.9"
+          x="248.87"
           y="0"
-          width="10.91"
+          width="10.94"
           height="8"
           fill="#663399"
         />
@@ -217,14 +225,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 93.82%
+        Jupyter Notebook 93.74%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 1.79%
+        TypeScript 1.86%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -259,7 +267,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 0.36%
+        CSS 0.38%
       </text>
     </g>
   </g><g transform="translate(0, 50)">

@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Satish Jhanwer&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 29, Total Commits  (last year) : 3213, Total PRs: 12, Total Issues: 4, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 29, Total Commits  (last year) : 3133, Total PRs: 12, Total Issues: 4, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 131.52125947599455;
+        stroke-dashoffset: 131.32432373402992;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -102,9 +103,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -163,7 +170,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >3.2k</text>
+      >3.1k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
