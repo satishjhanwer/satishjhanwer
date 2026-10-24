@@ -52,7 +52,7 @@ jobs:
         continue-on-error: true
         with:
           username: ${{ github.repository_owner }}
-          file: profile/trophy.svg
+          output_path: profile/trophy.svg
           token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
           max-cols: 6
           margin-width: 10
