@@ -1,9 +1,15 @@
 name: Generate Stats
 
 on:
-  # schedule:
-  #   - cron: '0 23 * * *'
+  schedule:
+    # Daily at 01:30 UTC, offset from main.yaml which runs at minute 0 every 3 hours
+    - cron: '30 1 * * *'
   workflow_dispatch:
+
+# Shared with main.yaml so the two workflows never run (and push) at the same time
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
 
 jobs:
   build:

@@ -5,6 +5,11 @@ on:
     - cron: '0 */3 * * *'
   workflow_dispatch:
 
+# Shared with generate-stats.yaml so the two workflows never run (and push) at the same time
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
