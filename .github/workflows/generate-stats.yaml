@@ -28,7 +28,7 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2
         continue-on-error: true
         with:
           card: stats
@@ -37,7 +37,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2
         continue-on-error: true
         with:
           card: top-langs
@@ -121,7 +121,7 @@ jobs:
           fi
 
       - name: Generate pin card - hotel-booking-mean-stack
-        uses: readme-tools/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2
         continue-on-error: true
         with:
           card: pin
@@ -130,7 +130,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card - IITJ-MTP-Template-Generator
-        uses: readme-tools/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2
         continue-on-error: true
         with:
           card: pin
@@ -139,7 +139,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card - deep-dive-dsa
-        uses: readme-tools/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2
         continue-on-error: true
         with:
           card: pin
@@ -148,7 +148,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card - ml-deep-dive
-        uses: readme-tools/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2
         continue-on-error: true
         with:
           card: pin
