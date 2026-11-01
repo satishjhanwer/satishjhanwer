@@ -189,7 +189,7 @@ I've engineered responsive, mobile-first architectures that scale seamlessly acr
 
 <img alt="GitHub Profile Trophy" src="profile/trophy.svg" width="100%" />
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satishjhanwer&custom_title=Satish's%20activity%20graph&theme=github-light)
+[![GitHub Activity Graph](profile/activity-graph.svg)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <img alt="3D Contribution Graph" src="profile/profile-3d-city.svg" width="100%" />
 

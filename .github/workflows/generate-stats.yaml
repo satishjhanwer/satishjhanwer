@@ -57,6 +57,18 @@ jobs:
           max-cols: 6
           margin-width: 10
 
+      - name: Generate activity graph
+        # Pinned to a commit on satishjhanwer/github-readme-activity-graph#feat/github-action
+        # (Ashutosh00710/github-readme-activity-graph#274)
+        uses: satishjhanwer/github-readme-activity-graph@cec84a3d5a5dc0cdc6dff1fc37653f757ac903a1
+        continue-on-error: true
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
+          output_path: profile/activity-graph.svg
+          theme: github-light
+          custom_title: "Satish's activity graph"
+
       - name: Generate 3D city builder
         uses: lowlighter/metrics@latest
         continue-on-error: true
