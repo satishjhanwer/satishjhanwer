@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
 
       - name: Setup Node
-        uses: actions/setup-node@v4.1.0
+        uses: actions/setup-node@v7.1.0
         with:
           node-version: '24.x'
 
@@ -35,7 +35,7 @@ jobs:
         run: yarn set version stable
 
       - name: Cache
-        uses: actions/cache@v4.2.0
+        uses: actions/cache@v6.1.0
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('yarn.lock') }}

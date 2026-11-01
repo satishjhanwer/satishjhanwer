@@ -103,7 +103,7 @@ jobs:
           filename: metrics.plugin.leetcode.svg
           token: NOT_NEEDED
           base: ''
-          plugin_leetcode_username: ${{ secrets.GITHUB_USERNAME }}
+          plugin_leetcode_user: ${{ secrets.GITHUB_USERNAME }}
           plugin_leetcode: yes
           plugin_leetcode_sections: solved
           plugin_leetcode_limit_skills: 0
