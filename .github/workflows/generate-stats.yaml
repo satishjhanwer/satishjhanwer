@@ -32,7 +32,7 @@ jobs:
         continue-on-error: true
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&count_private=true&include_all_commits=false
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&count_private=true&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
